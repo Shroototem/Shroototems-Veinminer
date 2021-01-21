@@ -1,0 +1,10 @@
+scoreboard objectives add SDP_MineCoal minecraft.mined:minecraft.coal_ore
+scoreboard objectives add SDP_MineIron minecraft.mined:minecraft.iron_ore
+scoreboard objectives add SDP_MineGold minecraft.mined:minecraft.gold_ore
+scoreboard objectives add SDP_MineLapis minecraft.mined:minecraft.lapis_ore
+scoreboard objectives add SDP_MineDiamond minecraft.mined:minecraft.diamond_ore
+scoreboard objectives add SDP_MineRedstone minecraft.mined:minecraft.redstone_ore
+scoreboard objectives add SDP_MineEmerald minecraft.mined:minecraft.emerald_ore
+scoreboard objectives add SDP_MineQuartz minecraft.mined:minecraft.nether_quartz_ore
+scoreboard objectives add SDP_MineNthGold minecraft.mined:minecraft.nether_gold_ore
+scoreboard objectives add SDP_MineAncDeb minecraft.mined:minecraft.ancient_debris
